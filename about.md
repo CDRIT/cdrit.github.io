@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The CDR-IT Cat (aka 'Comité per la Defensa de la República' branca tecnològica) is built to help individuals and Real Life CDRs locate information and resources in internet.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We also aim to help creators make sure their resources are not taken down by spanish police forces (currently under control of the `.cat` TLD, e.g.).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you are a content creator and want us to mirror your content or include a link so it's locatable, open an [open an issue](https://github.com/CDRITCAT/cdritcat.github.io/issues) or mention [@cdritcat](https://twitter.com/cdritcat) in twitter. 
