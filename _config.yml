@@ -23,6 +23,11 @@ url: "https://cdritcat.github.io/" # the base hostname & protocol for your site,
 twitter_username: cdritcat
 github_username:  cdritcat
 
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%a %e %B %Y"
+
 # Build settings
 markdown: kramdown
 theme: minima
