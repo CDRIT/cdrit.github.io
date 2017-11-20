@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Backups"
+date:   2017-11-11 23:41:00 +0100
+categories: backups
+permalink: /backups/
+---
+
+El CDR IT Cat vol ajudar a mantenir còpies de sites i videos que cregueu poden ésser eliminats de la xarxa.
+
+### Forks
+
+* [Spanish Radicals](https://github.com/CDRITCAT/spanishradicals.github.io) - Videos of the Spanish Radicals Violence lived in some Cities of Spain since Catalan Referendum of October 1, 2017
+* [Spanish Police](https://github.com/CDRITCAT/spanishpolice.github.io) - Videos of the Repression lived in Catalonia by the Spanish Police in the Referendum of October 1, 2017
+* [Censura1Oct](https://github.com/CDRITCAT/censura1oct.github.io)
+
+### Mirrors
+
+Aquestes còpies es realitzen periòdicament. Si sou l'autor o manteniu algun d'aquests webs, aviseu-nos amb un [DM per twitter](https://twitter.com/cdritcat) quan volgueu fer nous backups.
+
+* [comsempre.cat](https://github.com/CDRITCAT/comsempre.cat)
+* [garanties.cat](https://github.com/CDRITCAT/garanties.cat)
+
+### Altres backups
+
+* [1 octubre en cifras (Carmina Altesa)](https://cdritcat.github.io/1-octubre-en-cifras/)

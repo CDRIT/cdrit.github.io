@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "1 de Octubre en cifras"
 date:   2017-11-11 23:40:00 +0100
 categories: 1octubre police
